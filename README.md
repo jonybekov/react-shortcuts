@@ -1,2 +1,2 @@
 # react-shortcuts
-React shortcuts implementation using Hooks API
+Mousetrap implementation using Hooks API
